@@ -1,0 +1,22 @@
+{
+  "name": "xiraenya.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eisenivan/xiraenya.com.git"
+  },
+  "author": "@banjoivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eisenivan/xiraenya.com/issues"
+  },
+  "homepage": "https://github.com/eisenivan/xiraenya.com#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
